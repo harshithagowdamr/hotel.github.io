@@ -1,4 +1,4 @@
-# hotel.github.io
-## Hotel
-### North Indian Food
-/
+
+# Hotel Website
+- North Indian Food
+- South Indian Food
